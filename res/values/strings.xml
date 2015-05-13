@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="take_a_pic">Take a Pic</string>
+    <string name="geo_tag">Geo Tag</string>
+    <string name="read_geo_tag">Read Geo Tag</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+
+</resources>
